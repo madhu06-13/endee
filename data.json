@@ -1,0 +1,7 @@
+[
+  { "id": 1, "text": "Artificial Intelligence is the future of technology" },
+  { "id": 2, "text": "Machine learning is a subset of AI" },
+  { "id": 3, "text": "Deep learning uses neural networks" },
+  { "id": 4, "text": "Natural Language Processing works with text data" },
+  { "id": 5, "text": "Computer vision helps machines see images" }
+]

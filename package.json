@@ -1,0 +1,13 @@
+{
+  "name": "semantic-search-no-docker",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.0"
+  }
+}
